@@ -6,6 +6,6 @@ Aquests recursos es troben en un repositori diferent al de l'aplicació degut a 
 
 ## Crèdits
 
-- **[Nil Caballero i Milà](https://twitter.com/PelochoRockea)**: Desenvolupament i gestió de l'aplicació i els recursos.
+- **[Nil Caballero i Milà](https://github.com/Nilcm01)**: Desenvolupament i gestió de l'aplicació i els recursos.
 
 - **[Projecte 'Ce Trencada'](https://cetrencada.cat)**: Coordinació i suport tècnic.
